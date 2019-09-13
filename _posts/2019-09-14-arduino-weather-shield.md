@@ -3,7 +3,7 @@ layout: posts
 title:  "Arduino Weather Shield"
 ---
 
-![TE Connectivity Arduino Weather Shield](assets/img/weather_shield.jpg)
+![TE Connectivity Arduino Weather Shield](/assets/img/weather_shield.jpg)
 
 Last week, I met up with some friends (and made some new friends) at [Interdrone](https://www.interdrone.com). On the show floor, [TE Connectivity](https://www.te.com/usa-en/home.html) gave out some [Arduino Weather Shields](https://www.te.com/usa-en/product-10212634-00.html). This weather shield has five different sensors: 
 
